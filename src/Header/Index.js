@@ -115,7 +115,7 @@ function Header() {
                   <li key={index}>
                     <a
                       href="/"
-                      className="block py-2 pr-4 pl-3 rounded-lg lg:text-primary-700 lg:p-2 text-white hover:bg-gray-700 hover:font-medium"
+                      className="block py-2 pr-4 pl-3 rounded-lg lg:text-primary-700 font-medium lg:p-2 text-white hover:bg-gray-700 hover:font-light"
                       aria-current={item === "Inicio" ? "page" : undefined}
                     >
                       {item}

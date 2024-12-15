@@ -12,8 +12,8 @@ export default function Body() {
         <source src={bg} type="video/mp4" />
       </video>
       <div className="relative grid place-items-center w-full h-full text-white">
-        <h1 className="text-4xl sm:text-6xl font-bold font-anton text-center pt-20">DISTRIBUCIONES FERREMOLINA</h1>
-        <h1 className="text-xl sm:text-2xl font-bold text-yellow-400 font-anton text-center mt-12 sm:-mt-12 md:mb-60 mb-96">
+        <h1 className="text-4xl sm:text-6xl font-bold text-center pt-20">DISTRIBUCIONES FERREMOLINA</h1>
+        <h1 className="text-xl sm:text-2xl text-yellow-400 font-thin text-center mt-12 sm:-mt-12 md:mb-60 mb-96">
           Nuestros sueños no son negociables
         </h1>
       </div>
